@@ -1,0 +1,21 @@
+0905_25_13062
+
+ ¿Qué aprendiste sobre el flujo de trabajo con Git y
+GitHub? Pues era algo que no habia visto de momento pero me gusto mucho,
+es algo tedioso al principio pero lo veo muy bueno y aprendi que hay que tener un mejor orden al momento de programar en git.
+
+ ¿Cómo fue la experiencia de trabajar en pareja? Trabaje solo pero más adelante si me gustaría trabajar en pareja
+para ver cual es el resultado de trabajar con alguien.
+ 
+¿Encontraste algún conflicto? Sí no me funcionaban un poco los comando pero 
+poco a poco fui aprendiendo a usarlos mejor y me di cuenta que yo era el que
+no los ponia o usaba bien. 
+
+¿Cómo lo resolviste? Poniendo más atención en lo que hacía y buscando algun 
+tutorial o en google como se hacia para guiarme.
+
+¿Qué ventajas crees que tiene usar Git en proyectos de programación? Yo creo
+que es un poco más sencillo de usar que otros lenguajes de programación y es
+muy versátil y siento que es si vale la pena de usarlo y por su puesto 
+aprender a usarlo.
+
